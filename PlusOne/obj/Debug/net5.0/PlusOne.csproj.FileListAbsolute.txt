@@ -1,0 +1,16 @@
+C:\Users\Thomas Stone\source\repos\PlusOne\PlusOne\bin\Debug\net5.0\PlusOne.exe
+C:\Users\Thomas Stone\source\repos\PlusOne\PlusOne\bin\Debug\net5.0\PlusOne.deps.json
+C:\Users\Thomas Stone\source\repos\PlusOne\PlusOne\bin\Debug\net5.0\PlusOne.runtimeconfig.json
+C:\Users\Thomas Stone\source\repos\PlusOne\PlusOne\bin\Debug\net5.0\PlusOne.runtimeconfig.dev.json
+C:\Users\Thomas Stone\source\repos\PlusOne\PlusOne\bin\Debug\net5.0\PlusOne.dll
+C:\Users\Thomas Stone\source\repos\PlusOne\PlusOne\bin\Debug\net5.0\ref\PlusOne.dll
+C:\Users\Thomas Stone\source\repos\PlusOne\PlusOne\bin\Debug\net5.0\PlusOne.pdb
+C:\Users\Thomas Stone\source\repos\PlusOne\PlusOne\obj\Debug\net5.0\PlusOne.csprojAssemblyReference.cache
+C:\Users\Thomas Stone\source\repos\PlusOne\PlusOne\obj\Debug\net5.0\PlusOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas Stone\source\repos\PlusOne\PlusOne\obj\Debug\net5.0\PlusOne.AssemblyInfoInputs.cache
+C:\Users\Thomas Stone\source\repos\PlusOne\PlusOne\obj\Debug\net5.0\PlusOne.AssemblyInfo.cs
+C:\Users\Thomas Stone\source\repos\PlusOne\PlusOne\obj\Debug\net5.0\PlusOne.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Stone\source\repos\PlusOne\PlusOne\obj\Debug\net5.0\PlusOne.dll
+C:\Users\Thomas Stone\source\repos\PlusOne\PlusOne\obj\Debug\net5.0\ref\PlusOne.dll
+C:\Users\Thomas Stone\source\repos\PlusOne\PlusOne\obj\Debug\net5.0\PlusOne.pdb
+C:\Users\Thomas Stone\source\repos\PlusOne\PlusOne\obj\Debug\net5.0\PlusOne.genruntimeconfig.cache
